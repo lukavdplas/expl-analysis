@@ -1,0 +1,39 @@
+item,product,voice,dislocation,language,slogan
+item4,bike,active,no,dutch,Dynaflex verovert robuust de wedstrijd
+item4,bike,active,yes,dutch,"Dynaflex, die verovert robuust de wedstrijd"
+item4,bike,passive,no,dutch,De wedstrijd wordt robuust veroverd door Dynaflex
+item4,bike,passive,yes,dutch,"De wedstrijd, die wordt robuust veroverd door Dynaflex"
+filler1,blender,NULL,NULL,dutch,"Ik stop alles erin, en Mixtra doet de rest"
+item1,camera,active,no,dutch,Visadel bewaart veilig jouw herinneringen
+item1,camera,active,yes,dutch,"Visadel, die bewaart veilig jouw herinneringen"
+item1,camera,passive,no,dutch,Jouw herinneringen worden veilig bewaard door Visadel
+item1,camera,passive,yes,dutch,"Jouw herinneringen, die worden veilig bewaard door Visadel"
+distractor,dolphins,NULL,NULL,dutch,NULL
+item2,filter,active,no,dutch,Evpure garandeert trots elke druppel
+item2,filter,active,yes,dutch,"Evpure, die garandeert trots elke druppel"
+item2,filter,passive,no,dutch,Elke druppel wordt trots garandeerd door Evpure
+item2,filter,passive,yes,dutch,"Elke druppel, die wordt trots garandeerd door Evpure"
+filler2,laptop,NULL,NULL,dutch,Werk efficiënt en dynamisch met Protop
+item3,printer,active,no,dutch,Comtech reproduceert precies jouw gedachten
+item4,printer,active,yes,dutch,"Comtech, die reproduceert precies jouw gedachten"
+item5,printer,passive,no,dutch,Jouw gedachten worden precies reproduceerd door Comtech
+item6,printer,passive,yes,dutch,"Jouw gedachten, die worden precies reproduceerd door Comtech"
+item4,bike,active,no,french,Dynaflex conquiert robustement la compétition
+item4,bike,active,yes,french,"Dynaflex, ça conquiert robustement la compétition"
+item4,bike,passive,no,french,La compétition est robustement conquise par Dynaflex
+item4,bike,passive,yes,french,"La compétition, elle est robustement conquise par Dynaflex"
+filler1,blender,NULL,NULL,french,"Je mets tout dedans, et Mixtra fait le reste"
+item1,camera,active,no,french,Visadel conserve précieusement vos souvenirs
+item1,camera,active,yes,french,"Visadel, ça conserve précieusement vos souvenirs"
+item1,camera,passive,no,french,Vos souvenirs sont précieusement conservés par Visadel.
+item1,camera,passive,yes,french,"Vos souvenir, ils sont précieusement conservés par Visadel"
+distractor,dolphins,NULL,NULL,french,NULL
+item2,filter,active,no,french,Evpure garantit fièrement chaque goutte
+item2,filter,active,yes,french,"Evpure, ça garantit fièrement chaque goutte"
+item2,filter,passive,no,french,Chaque goutte est fièrement garantie par Evpure
+item2,filter,passive,yes,french,"Chaque goutte, elle fièrement garantie par Evpure"
+filler2,laptop,NULL,NULL,french,Travaillez efficacement et dynamiquement avec Protop
+item3,printer,active,no,french,Comtech reproduit précisément vos pensées
+item4,printer,active,yes,french,"Comtech, ça reproduit précisément vos pensés"
+item5,printer,passive,no,french,Vos pensées sont précisément reproduites par Comtech
+item6,printer,passive,yes,french,"Vos pensées, elles sont précisément reproduites par Comtech"

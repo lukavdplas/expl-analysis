@@ -1,0 +1,505 @@
+#
+# Results on Thursday April 09 2020 10:48:29 UTC.
+# USER AGENT: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G950F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.143 Mobile Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,0,0,intro,NULL,age,24
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,0,0,intro,NULL,consent,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,0,0,intro,NULL,language,English
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,17,0,filler-i1,NULL,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,14,0,exp-act-dis-item4,4,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,9,0,exp-act-no-item3,3,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,3,0,exp-pas-no-item1,1,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,8,0,exp-pas-dis-item2,2,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,18,0,filler-i2,NULL,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,19,0,filler-i3,NULL,read,yes
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,filler1,Ik mik het erin en Mixtra doet de rest
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,item1,Leg herinneringen vast.
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,item2,Elke druppel. Evdrop?
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,item3,Print alles uit.
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,item4,Duraflex%2C robuust voor de wedstrijd
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Form,21,0,recall,NULL,filler2,Protop
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,27,0,compr-filler2,NULL,Wat was de betekenis van de slogan voor de <b>laptop</b> ?,Dankzij dit apparaat zal je overal werken.,0,5672
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,22,0,compr-item1,NULL,Wat was de betekenis van de slogan voor de <b>fotocamera</b> ?,Dit apparaat verzekert het voortbestaan van vereeuwigde momenten.,1,4301
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,24,0,compr-item3,NULL,Wat was de betekenis van de slogan voor de <b>printer</b> ?,Het resultaat is toegankelijk door een vereenvoudigde gebruikersinterface.,0,5669
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,25,0,compr-item4,NULL,Wat was de betekenis van de slogan voor de <b>fiets</b> ?,Deze fiets domineert de rest in stevigheid.,1,8697
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,23,0,compr-item2,NULL,Wat was de betekenis van de slogan voor de <b>waterfilter</b> ?,Dit apparaat heeft de waardige verantwoordelijkheid van het gefilteerd water.,1,8326
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,26,0,compr-filler1,NULL,Wat was de betekenis van de slogan voor de <b>keukenmachine</b> ?,Dit apparaat vereist weinig extra werk..,1,3797
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,28,0,distractor,NULL,Wat is het maximale aantal zeezoogdieren dat zichtbaar is op een videosequentie?,Drie,NULL,6792
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,34,0,syn-filler2,NULL,Wat was de slogan voor de <b>laptop</b>?,Werk dynamisch en efficiënt met Protop.,NULL,7794
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,30,0,syn-item2,NULL,Wat was de slogan voor de <b>waterfilter</b>?,Elke druppel%2C die wordt trots garandeerd door Evpure.,NULL,5153
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,33,0,syn-filler1,NULL,Wat was de slogan voor de <b>keukenmachine</b>?,Ik stop alles erin%2C en Mixtra doet de rest.,NULL,3991
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,32,0,syn-item4,NULL,Wat was de slogan voor de <b>fiets</b> ?,De wedstrijd%2C die wordt robuust veroverd door Dynaflex.,NULL,5524
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,29,0,syn-item1,NULL,Wat was de slogan voor de <b>fotocamera</b>?,Jouw herinneringen worden veilig bewaard door Visadel.,NULL,5787
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Question,31,0,syn-item3,NULL,Wat was de slogan voor de <b>printer</b>?,Jouw gedachten worden precies reproduceerd door Comtech.,NULL,12356
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,38,0,att-item4,NULL,quality,3
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,38,0,att-item4,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,38,0,att-item4,NULL,informativity,3
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,38,0,att-item4,NULL,interest,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,38,0,att-item4,NULL,clarity,3
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,41,0,att-filler3,NULL,quality,6
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,41,0,att-filler3,NULL,likability,6
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,41,0,att-filler3,NULL,informativity,2
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,41,0,att-filler3,NULL,interest,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,41,0,att-filler3,NULL,clarity,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,37,0,att-item3,NULL,quality,3
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,37,0,att-item3,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,37,0,att-item3,NULL,informativity,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,37,0,att-item3,NULL,interest,3
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,37,0,att-item3,NULL,clarity,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,39,0,att-filler1,NULL,quality,6
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,39,0,att-filler1,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,39,0,att-filler1,NULL,informativity,6
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,39,0,att-filler1,NULL,interest,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,39,0,att-filler1,NULL,clarity,6
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,40,0,att-filler2,NULL,quality,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,40,0,att-filler2,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,40,0,att-filler2,NULL,informativity,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,40,0,att-filler2,NULL,interest,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,40,0,att-filler2,NULL,clarity,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,36,0,att-item2,NULL,quality,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,36,0,att-item2,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,36,0,att-item2,NULL,informativity,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,36,0,att-item2,NULL,interest,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,36,0,att-item2,NULL,clarity,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,35,0,att-item1,NULL,quality,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,35,0,att-item1,NULL,likability,4
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,35,0,att-item1,NULL,informativity,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,35,0,att-item1,NULL,interest,5
+1586429310,966f020734a7d56fe183528b1d9ba6b4,Attitude,35,0,att-item1,NULL,clarity,5
+#
+# Results on Thursday April 09 2020 10:52:20 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,0,0,intro,NULL,age,23
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,0,0,intro,NULL,consent,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,0,0,intro,NULL,language,English
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,17,0,filler-i1,NULL,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,3,0,exp-pas-no-item1,1,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,9,0,exp-act-no-item3,3,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,8,0,exp-pas-dis-item2,2,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,14,0,exp-act-dis-item4,4,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,18,0,filler-i2,NULL,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,19,0,filler-i3,NULL,read,yes
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,filler1,Jij stopt het erin%2C Mixtra . . .
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,item1,Jouw herinneringen zijn veilig/blijven bewaard met . . .
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,item2,Elke druppel%2C die . . .
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,item3,Comtech reproduceert jouw gedachten
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,item4,Dynaflex ... (iets met roest)
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Form,21,0,recall,NULL,filler2,Protop 
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,23,0,compr-item2,NULL,Wat was de betekenis van de slogan voor de <b>waterfilter</b> ?,Dit apparaat vermindert radicaal de filteringstijd.,0,17412
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,24,0,compr-item3,NULL,Wat was de betekenis van de slogan voor de <b>printer</b> ?,Het resultaat lijkt dicht op jouw ideeën.,1,4166
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,26,0,compr-filler1,NULL,Wat was de betekenis van de slogan voor de <b>keukenmachine</b> ?,Dit apparaat vereist weinig extra werk..,1,5056
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,22,0,compr-item1,NULL,Wat was de betekenis van de slogan voor de <b>fotocamera</b> ?,Dit apparaat verzekert het voortbestaan van vereeuwigde momenten.,1,6016
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,25,0,compr-item4,NULL,Wat was de betekenis van de slogan voor de <b>fiets</b> ?,Deze fiets domineert de rest in stevigheid.,1,3705
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,27,0,compr-filler2,NULL,Wat was de betekenis van de slogan voor de <b>laptop</b> ?,Danzij dit apparaat zul je goed en snel presteren.,1,4977
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,28,0,distractor,NULL,Wat is het maximale aantal zeezoogdieren dat zichtbaar is op een videosequentie?,Drie,NULL,6926
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,31,0,syn-item3,NULL,Wat was de slogan voor de <b>printer</b>?,Comtech%2C die reproduceert precies jouw gedachten.,NULL,6403
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,33,0,syn-filler1,NULL,Wat was de slogan voor de <b>keukenmachine</b>?,Ik stop alles erin%2C en Mixtra doet de rest.,NULL,19426
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,32,0,syn-item4,NULL,Wat was de slogan voor de <b>fiets</b> ?,Dynaflex%2C die verovert robuust de wedstrijd.,NULL,2911
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,34,0,syn-filler2,NULL,Wat was de slogan voor de <b>laptop</b>?,Werk dynamisch en efficiënt met Protop.,NULL,3498
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,30,0,syn-item2,NULL,Wat was de slogan voor de <b>waterfilter</b>?,Elke druppel%2C die wordt trots garandeerd door Evpure.,NULL,4445
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Question,29,0,syn-item1,NULL,Wat was de slogan voor de <b>fotocamera</b>?,Jouw herinneringen worden veilig bewaard door Visadel.,NULL,5931
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,41,0,att-filler3,NULL,quality,3
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,41,0,att-filler3,NULL,likability,6
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,41,0,att-filler3,NULL,informativity,1
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,41,0,att-filler3,NULL,interest,2
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,41,0,att-filler3,NULL,clarity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,35,0,att-item1,NULL,quality,6
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,35,0,att-item1,NULL,likability,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,35,0,att-item1,NULL,informativity,3
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,35,0,att-item1,NULL,interest,5
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,35,0,att-item1,NULL,clarity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,39,0,att-filler1,NULL,quality,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,39,0,att-filler1,NULL,likability,5
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,39,0,att-filler1,NULL,informativity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,39,0,att-filler1,NULL,interest,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,39,0,att-filler1,NULL,clarity,5
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,37,0,att-item3,NULL,quality,3
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,37,0,att-item3,NULL,likability,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,37,0,att-item3,NULL,informativity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,37,0,att-item3,NULL,interest,3
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,37,0,att-item3,NULL,clarity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,40,0,att-filler2,NULL,quality,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,40,0,att-filler2,NULL,likability,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,40,0,att-filler2,NULL,informativity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,40,0,att-filler2,NULL,interest,1
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,40,0,att-filler2,NULL,clarity,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,36,0,att-item2,NULL,quality,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,36,0,att-item2,NULL,likability,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,36,0,att-item2,NULL,informativity,1
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,36,0,att-item2,NULL,interest,5
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,36,0,att-item2,NULL,clarity,1
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,38,0,att-item4,NULL,quality,3
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,38,0,att-item4,NULL,likability,5
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,38,0,att-item4,NULL,informativity,6
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,38,0,att-item4,NULL,interest,4
+1586429541,12b4c5ff03a940799a65acf84f6dddf4,Attitude,38,0,att-item4,NULL,clarity,5
+#
+# Results on Thursday April 09 2020 16:21:09 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36 Edg/80.0.361.111
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586449269,e47cea49e60541011353679c2b8e0122,Form,0,0,intro,NULL,age,56
+1586449269,e47cea49e60541011353679c2b8e0122,Form,0,0,intro,NULL,consent,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,0,0,intro,NULL,language,English
+1586449269,e47cea49e60541011353679c2b8e0122,Form,17,0,filler-i1,NULL,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,16,0,exp-pas-dis-item4,4,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,1,0,exp-act-no-item1,1,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,11,0,exp-pas-no-item3,3,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,6,0,exp-act-dis-item2,2,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,18,0,filler-i2,NULL,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,19,0,filler-i3,NULL,read,yes
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,filler1,weet ik niet meer
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,item1,weet ik niet meer
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,item2,weet ik niet meer
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,item3,weet ik niet meer
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,item4,weet ik niet meer
+1586449269,e47cea49e60541011353679c2b8e0122,Form,21,0,recall,NULL,filler2,weet ik niet meer
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1586449269,e47cea49e60541011353679c2b8e0122,Question,27,0,compr-filler2,NULL,Wat was de betekenis van de slogan voor de <b>laptop</b> ?,Dankzij dit apparaat zal je overal werken.,0,17229
+1586449269,e47cea49e60541011353679c2b8e0122,Question,26,0,compr-filler1,NULL,Wat was de betekenis van de slogan voor de <b>keukenmachine</b> ?,Dit apparaat heeft veel functies.,0,8189
+1586449269,e47cea49e60541011353679c2b8e0122,Question,23,0,compr-item2,NULL,Wat was de betekenis van de slogan voor de <b>waterfilter</b> ?,Dit apparaat voegt een smaak toe die niet te sterk is.,0,18122
+1586449269,e47cea49e60541011353679c2b8e0122,Question,25,0,compr-item4,NULL,Wat was de betekenis van de slogan voor de <b>fiets</b> ?,Deze fiets compenseert zijn gewicht met een grotere snelheid.,0,16412
+1586449269,e47cea49e60541011353679c2b8e0122,Question,24,0,compr-item3,NULL,Wat was de betekenis van de slogan voor de <b>printer</b> ?,Het resultaat is toegankelijk door een vereenvoudigde gebruikersinterface.,0,9646
+1586449269,e47cea49e60541011353679c2b8e0122,Question,22,0,compr-item1,NULL,Wat was de betekenis van de slogan voor de <b>fotocamera</b> ?,Dit apparaat is gemakkelijk te gebruiken.,0,8418
+1586449269,e47cea49e60541011353679c2b8e0122,Question,28,0,distractor,NULL,Wat is het maximale aantal zeezoogdieren dat zichtbaar is op een videosequentie?,Vier,NULL,13373
+1586449269,e47cea49e60541011353679c2b8e0122,Question,29,0,syn-item1,NULL,Wat was de slogan voor de <b>fotocamera</b>?,Jouw herinneringen worden veilig bewaard door Visadel.,NULL,19997
+1586449269,e47cea49e60541011353679c2b8e0122,Question,31,0,syn-item3,NULL,Wat was de slogan voor de <b>printer</b>?,Jouw gedachten worden precies reproduceerd door Comtech.,NULL,17495
+1586449269,e47cea49e60541011353679c2b8e0122,Question,30,0,syn-item2,NULL,Wat was de slogan voor de <b>waterfilter</b>?,Evpure%2C die garandeert trots elke druppel.,NULL,8105
+1586449269,e47cea49e60541011353679c2b8e0122,Question,33,0,syn-filler1,NULL,Wat was de slogan voor de <b>keukenmachine</b>?,Ik stop alles erin%2C en Mixtra doet de rest.,NULL,15078
+1586449269,e47cea49e60541011353679c2b8e0122,Question,34,0,syn-filler2,NULL,Wat was de slogan voor de <b>laptop</b>?,Werk dynamisch en efficiënt met Protop.,NULL,10822
+1586449269,e47cea49e60541011353679c2b8e0122,Question,32,0,syn-item4,NULL,Wat was de slogan voor de <b>fiets</b> ?,De wedstrijd wordt robuust veroverd door Dynaflex.,NULL,8122
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,40,0,att-filler2,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,40,0,att-filler2,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,40,0,att-filler2,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,40,0,att-filler2,NULL,interest,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,40,0,att-filler2,NULL,clarity,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,36,0,att-item2,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,36,0,att-item2,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,36,0,att-item2,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,36,0,att-item2,NULL,interest,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,36,0,att-item2,NULL,clarity,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,38,0,att-item4,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,38,0,att-item4,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,38,0,att-item4,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,38,0,att-item4,NULL,interest,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,38,0,att-item4,NULL,clarity,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,37,0,att-item3,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,37,0,att-item3,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,37,0,att-item3,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,37,0,att-item3,NULL,interest,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,37,0,att-item3,NULL,clarity,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,41,0,att-filler3,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,41,0,att-filler3,NULL,likability,7
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,41,0,att-filler3,NULL,informativity,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,41,0,att-filler3,NULL,interest,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,41,0,att-filler3,NULL,clarity,7
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,35,0,att-item1,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,35,0,att-item1,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,35,0,att-item1,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,35,0,att-item1,NULL,interest,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,35,0,att-item1,NULL,clarity,2
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,39,0,att-filler1,NULL,quality,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,39,0,att-filler1,NULL,likability,3
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,39,0,att-filler1,NULL,informativity,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,39,0,att-filler1,NULL,interest,1
+1586449269,e47cea49e60541011353679c2b8e0122,Attitude,39,0,att-filler1,NULL,clarity,2
+#
+# Results on Thursday April 09 2020 18:11:10 UTC.
+# USER AGENT: Mozilla/5.0 (iPhone; CPU iPhone OS 13_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Mobile/15E148 Safari/604.1
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,0,0,intro,NULL,age,60
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,0,0,intro,NULL,consent,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,0,0,intro,NULL,language,English
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,17,0,filler-i1,NULL,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,2,0,exp-act-dis-item1,1,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,13,0,exp-act-no-item4,4,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,7,0,exp-pas-no-item2,2,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,12,0,exp-pas-dis-item3,3,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,18,0,filler-i2,NULL,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,19,0,filler-i3,NULL,read,yes
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,filler1,Je kan er alles in doen
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,item1,Het bewaart je herinneringen
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,item2,
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,item3,
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,item4,
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Form,21,0,recall,NULL,filler2,Helpt om efficient te werken
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,24,0,compr-item3,NULL,Wat was de betekenis van de slogan voor de <b>printer</b> ?,Het resultaat lijkt dicht op jouw ideeën.,1,46363
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,25,0,compr-item4,NULL,Wat was de betekenis van de slogan voor de <b>fiets</b> ?,Deze fiets compenseert zijn gewicht met een grotere snelheid.,0,32035
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,27,0,compr-filler2,NULL,Wat was de betekenis van de slogan voor de <b>laptop</b> ?,Danzij dit apparaat zul je goed en snel presteren.,1,8372
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,26,0,compr-filler1,NULL,Wat was de betekenis van de slogan voor de <b>keukenmachine</b> ?,Dit apparaat vereist weinig extra werk..,1,17868
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,22,0,compr-item1,NULL,Wat was de betekenis van de slogan voor de <b>fotocamera</b> ?,Dit apparaat verzekert het voortbestaan van vereeuwigde momenten.,1,9935
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,23,0,compr-item2,NULL,Wat was de betekenis van de slogan voor de <b>waterfilter</b> ?,Dit apparaat heeft de waardige verantwoordelijkheid van het gefilteerd water.,1,22805
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,28,0,distractor,NULL,Wat is het maximale aantal zeezoogdieren dat zichtbaar is op een videosequentie?,Vier,NULL,17706
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,31,0,syn-item3,NULL,Wat was de slogan voor de <b>printer</b>?,Comtech reproduceert precies jouw gedachten.,NULL,12401
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,33,0,syn-filler1,NULL,Wat was de slogan voor de <b>keukenmachine</b>?,Ik stop alles erin%2C en Mixtra doet de rest.,NULL,19657
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,29,0,syn-item1,NULL,Wat was de slogan voor de <b>fotocamera</b>?,Jouw herinneringen worden veilig bewaard door Visadel.,NULL,15758
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,30,0,syn-item2,NULL,Wat was de slogan voor de <b>waterfilter</b>?,Evpure garandeert trots elke druppel.,NULL,20021
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,32,0,syn-item4,NULL,Wat was de slogan voor de <b>fiets</b> ?,Dynaflex verovert robuust de wedstrijd.,NULL,13693
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Question,34,0,syn-filler2,NULL,Wat was de slogan voor de <b>laptop</b>?,Werk dynamisch en efficiënt met Protop.,NULL,10704
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,40,0,att-filler2,NULL,quality,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,40,0,att-filler2,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,40,0,att-filler2,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,40,0,att-filler2,NULL,interest,2
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,40,0,att-filler2,NULL,clarity,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,37,0,att-item3,NULL,quality,3
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,37,0,att-item3,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,37,0,att-item3,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,37,0,att-item3,NULL,interest,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,37,0,att-item3,NULL,clarity,3
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,38,0,att-item4,NULL,quality,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,38,0,att-item4,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,38,0,att-item4,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,38,0,att-item4,NULL,interest,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,38,0,att-item4,NULL,clarity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,41,0,att-filler3,NULL,quality,5
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,41,0,att-filler3,NULL,likability,5
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,41,0,att-filler3,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,41,0,att-filler3,NULL,interest,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,41,0,att-filler3,NULL,clarity,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,39,0,att-filler1,NULL,quality,3
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,39,0,att-filler1,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,39,0,att-filler1,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,39,0,att-filler1,NULL,interest,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,39,0,att-filler1,NULL,clarity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,35,0,att-item1,NULL,quality,3
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,35,0,att-item1,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,35,0,att-item1,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,35,0,att-item1,NULL,interest,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,35,0,att-item1,NULL,clarity,3
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,36,0,att-item2,NULL,quality,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,36,0,att-item2,NULL,likability,4
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,36,0,att-item2,NULL,informativity,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,36,0,att-item2,NULL,interest,1
+1586455871,ddbbc4ee2c345676daab7bc354ad2e33,Attitude,36,0,att-item2,NULL,clarity,1
+#
+# Results on Friday April 10 2020 11:07:26 UTC.
+# USER AGENT: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,0,0,intro,NULL,age,26
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,0,0,intro,NULL,consent,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,0,0,intro,NULL,language,English
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,17,0,filler-i1,NULL,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,14,0,exp-act-dis-item4,4,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,8,0,exp-pas-dis-item2,2,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,3,0,exp-pas-no-item1,1,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,9,0,exp-act-no-item3,3,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,18,0,filler-i2,NULL,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,19,0,filler-i3,NULL,read,yes
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,filler1,Mixtra.. 
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,item1,
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,item2,Gegarandeerd elke druppel met EvFilt
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,item3,Comtech brengt al je gedachten tot leven.
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,item4,Robuust ... Dynaflex
+1586516847,0ceccc3250d135deb138042439b28cf2,Form,21,0,recall,NULL,filler2,werk efficient en dynamisch met protop
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,27,0,compr-filler2,NULL,Wat was de betekenis van de slogan voor de <b>laptop</b> ?,Danzij dit apparaat zul je goed en snel presteren.,1,9988
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,23,0,compr-item2,NULL,Wat was de betekenis van de slogan voor de <b>waterfilter</b> ?,Dit apparaat heeft de waardige verantwoordelijkheid van het gefilteerd water.,1,19554
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,25,0,compr-item4,NULL,Wat was de betekenis van de slogan voor de <b>fiets</b> ?,Deze fiets domineert de rest in stevigheid.,1,6529
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,26,0,compr-filler1,NULL,Wat was de betekenis van de slogan voor de <b>keukenmachine</b> ?,Dit apparaat vereist weinig extra werk..,1,6102
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,22,0,compr-item1,NULL,Wat was de betekenis van de slogan voor de <b>fotocamera</b> ?,Dit apparaat verzekert het voortbestaan van vereeuwigde momenten.,1,5179
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,24,0,compr-item3,NULL,Wat was de betekenis van de slogan voor de <b>printer</b> ?,Het resultaat lijkt dicht op jouw ideeën.,1,6906
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,28,0,distractor,NULL,Wat is het maximale aantal zeezoogdieren dat zichtbaar is op een videosequentie?,Vier,NULL,5072
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,31,0,syn-item3,NULL,Wat was de slogan voor de <b>printer</b>?,Comtech%2C die reproduceert precies jouw gedachten.,NULL,17303
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,30,0,syn-item2,NULL,Wat was de slogan voor de <b>waterfilter</b>?,Elke druppel%2C die wordt trots garandeerd door Evpure.,NULL,5360
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,32,0,syn-item4,NULL,Wat was de slogan voor de <b>fiets</b> ?,Dynaflex%2C die verovert robuust de wedstrijd.,NULL,13057
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,33,0,syn-filler1,NULL,Wat was de slogan voor de <b>keukenmachine</b>?,Ik stop alles erin%2C en Mixtra doet de rest.,NULL,10955
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,34,0,syn-filler2,NULL,Wat was de slogan voor de <b>laptop</b>?,Werk efficiënt en dynamisch met Protop.,NULL,5089
+1586516847,0ceccc3250d135deb138042439b28cf2,Question,29,0,syn-item1,NULL,Wat was de slogan voor de <b>fotocamera</b>?,Jouw herinneringen worden veilig bewaard door Visadel.,NULL,10052
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,35,0,att-item1,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,35,0,att-item1,NULL,likability,5
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,35,0,att-item1,NULL,informativity,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,35,0,att-item1,NULL,interest,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,35,0,att-item1,NULL,clarity,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,36,0,att-item2,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,36,0,att-item2,NULL,likability,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,36,0,att-item2,NULL,informativity,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,36,0,att-item2,NULL,interest,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,36,0,att-item2,NULL,clarity,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,40,0,att-filler2,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,40,0,att-filler2,NULL,likability,5
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,40,0,att-filler2,NULL,informativity,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,40,0,att-filler2,NULL,interest,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,40,0,att-filler2,NULL,clarity,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,38,0,att-item4,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,38,0,att-item4,NULL,likability,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,38,0,att-item4,NULL,informativity,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,38,0,att-item4,NULL,interest,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,38,0,att-item4,NULL,clarity,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,41,0,att-filler3,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,41,0,att-filler3,NULL,likability,5
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,41,0,att-filler3,NULL,informativity,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,41,0,att-filler3,NULL,interest,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,41,0,att-filler3,NULL,clarity,5
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,39,0,att-filler1,NULL,quality,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,39,0,att-filler1,NULL,likability,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,39,0,att-filler1,NULL,informativity,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,39,0,att-filler1,NULL,interest,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,39,0,att-filler1,NULL,clarity,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,37,0,att-item3,NULL,quality,3
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,37,0,att-item3,NULL,likability,4
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,37,0,att-item3,NULL,informativity,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,37,0,att-item3,NULL,interest,2
+1586516847,0ceccc3250d135deb138042439b28cf2,Attitude,37,0,att-item3,NULL,clarity,2
